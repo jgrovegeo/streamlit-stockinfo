@@ -3,3 +3,4 @@ streamlit
 datetime
 beautifulsoup4
 requests
+gunicorn
